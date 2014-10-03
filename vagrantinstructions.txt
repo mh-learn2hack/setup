@@ -1,0 +1,6 @@
+Windows instructions:
+Install powershell
+Install virtualbox
+then install vagrant
+download our vagrantfile (which I need to write)
+...
